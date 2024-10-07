@@ -1,6 +1,6 @@
 # Welcome to My Project Portfolio!
 
-Hi, I'm [Your Name], a tech enthusiast and developer with a passion for data analysis, cybersecurity, and side projects.
+Hi, I'm Matt Hatch, a tech enthusiast and developer with a passion for data analysis, cybersecurity, and side projects.
 
 ## Current Projects
 
@@ -17,4 +17,4 @@ Working with `gpsd` on Raspberry Pi to process real-time GPS data and resolve is
 [Project Documentation](link-to-gps-project)
 
 ## Contact
-You can reach me at: [email@example.com](mailto:email@example.com)
+You can reach me at: [mhatch73@gmail.com](mailto:mhatch73@gmail.com)
