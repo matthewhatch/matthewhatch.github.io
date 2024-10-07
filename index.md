@@ -6,15 +6,15 @@ Hi, I'm Matt Hatch, a tech enthusiast and developer with a passion for data anal
 
 ### Monte Carlo Game Simulator
 A Python-based simulator for exploring probabilities in gaming scenarios.
-[GitHub Repository](link-to-monte-carlo-repo)
+[GitHub Repository](https://github.com/matthewhatch/monte_carlo)
 
 ### Web Scraper for Public and Private Schools
 A scraper to compile data from various sources on schools across the US.
-[GitHub Repository](link-to-web-scraper-repo)
+[GitHub Repository](https://github.com/matthewhatch/school-scraper)
 
 ### GPS Data Processing with Raspberry Pi
 Working with `gpsd` on Raspberry Pi to process real-time GPS data and resolve issues with altitude readings.
-[Project Documentation](link-to-gps-project)
+[Project Documentation](https://github.com/matthewhatch/wifi-probe)
 
 ## Contact
 You can reach me at: [mhatch73@gmail.com](mailto:mhatch73@gmail.com)
